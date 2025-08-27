@@ -8,7 +8,6 @@ This project performs differential expression analysis on RNA-seq data using the
 
 ```
 biofinal_project/
-├── biofinal_project.Rproj          # RStudio project file
 ├── README.md                       # This documentation file
 ├── scripts/
 │   ├── 01_install_packages.R      # Package installation script
